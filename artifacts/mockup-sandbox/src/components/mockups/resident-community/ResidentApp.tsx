@@ -1,4 +1,5 @@
 import { useState, type ReactNode } from "react";
+import "./_group.css";
 import {
   ArrowLeft, ArrowRight, Bell, CalendarDays, Check, ChevronRight, Clock3,
   CreditCard, Download, Droplets, FileText, Home, Info, KeyRound, MapPin,
